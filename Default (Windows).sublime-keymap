@@ -1,0 +1,3 @@
+[
+	{ "keys": ["alt+;", "alt+b"], "command": "convert_html_code_segment" }
+]
