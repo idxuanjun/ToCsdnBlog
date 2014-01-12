@@ -15,6 +15,8 @@ To CSDN Blog
 ------------------
 因为我是用Markdown写的CSDN博客，但“Markdown Preview”插件生成的HTML代码段与CSDN博客支持的格式不一致，所以自己写了个插件转换一下。
 
+####没有仔细研究Sublime Text的语法，找了个例子随便改改凑合用的，没经过优化，欢迎大家更新修改。
+
 [To CSDN Blog](https://github.com/idxuanjun/ToCsdnBlog)
 
 注意

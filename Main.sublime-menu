@@ -1,39 +1,27 @@
 [
     {
         "id": "tools",
-        "caption": "Tools",
         "children":
         [
             {
-                "id": "packages",
-                "caption": "Packages",
+                "id": "tocsdnblog",
+                "caption": "To CSDN Blog",
                 "children":
                 [
+                    // Toggle Global Enable
                     {
-                        "id": "tocsdnblog",
-                        "caption": "To CSDN Blog",
-                        "children":
-                        [
-                            // Toggle Global Enable
-                            {
-                                "caption": "To CSDN Blog: Convert Html Code Segment",
-                                "command": "convert_html_code_segment"
-                            }
-                        ]
+                        "caption": "To CSDN Blog: Convert Html Code Segment",
+                        "command": "convert_html_code_segment"
                     }
                 ]
             }
         ]
     },
     {
-        "caption": "Preferences",
-        "mnemonic": "n",
         "id": "preferences",
         "children":
         [
             {
-                "caption": "Package Settings",
-                "mnemonic": "P",
                 "id": "package-settings",
                 "children":
                 [
