@@ -1,13 +1,16 @@
 # -*- coding: utf-8 -*-
-#------------------------------------------------------------------------------
-# @Author  : Xuan Jun (idxuanjun@qq.com)
-# @Link    : http://blog.csdn.net/idxuanjun
-# @Date    : 2013-11-18
-# @Version : $Id$
-# @Desc    : 将Sublime Text的Markdown Preview插件生成的HTML代码段转换为
-#            CSDN博客支持的HTML代码段
-#            view.run_command('to_csdn_blog')
-#------------------------------------------------------------------------------
+'''
+#======================================================================
+#       FileName: ToCsdnBlog.py
+#           Desc: 将Sublime Text的Markdown Preview插件生成的HTML代码段
+#                 转换为CSDN博客支持的HTML代码段
+#         Author: Xuan Jun (idxuanjun@gmail.com)
+#           Link: http://idxuanjun.github.io
+#        Version: 0.1.0
+#     LastChange: 2013-11-18 16:53:07
+#        History:
+#======================================================================
+'''
 
 import sublime, sublime_plugin
 
