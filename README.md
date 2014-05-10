@@ -3,7 +3,7 @@ To CSDN Blog
 
 -------------------------------------------------------------------------------
 
-* @Author  : Xuan Jun (idxuanjun@qq.com)
+* @Author  : Xuan Jun (idxuanjun@gmail.com)
 * @Link    : http://blog.csdn.net/idxuanjun
 * @Date    : 2013-11-23
 * @Version : 0.0.1
